@@ -1,0 +1,14 @@
+{
+  "name": "parcel-vue-sfc-sample",
+  "version": "1.0.0",
+  "description": "Sample code using Parcel and Vue",
+  "main": "index.js",
+  "author": "corocn <crsk.plmzh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.2.0",
+    "parcel-plugin-vue": "^1.0.1",
+    "vue": "^2.5.11"
+  }
+}
